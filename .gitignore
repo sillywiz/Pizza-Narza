@@ -1,8 +1,10 @@
 .DS_Store
 composer.lock
+npm-debug.log
 
 vendor/
 node_modules/
+.idea/
 
 # Laravel 4 specific
 bootstrap/compiled.php
